@@ -1,8 +1,7 @@
 // given a string, find the length of the longest substring without repeating characters.The function should return an integer representing the length of the longest substring without repeating characters.
-
-
 #include<bits/stdc++.h>
 using namespace std;
+
 
 int length_of_longest_substring(string s){
     int n = s.length();
